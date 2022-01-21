@@ -21,7 +21,7 @@ let package = Package(
         .target(
             name: "Masonry",
             path: ".",
-            exclude: ["Masonry/Info.plist", "Masonry/MASConstraint+Private.h"],
+            exclude: ["Masonry/Info.plist"],
             sources: ["Masonry"],
             publicHeadersPath: "Masonry"
         )

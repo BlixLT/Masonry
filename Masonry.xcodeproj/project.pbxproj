@@ -19,7 +19,7 @@
 		3AED05F31AD5A0470053CC65 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AED05DD1AD5A0470053CC65 /* MASCompositeConstraint.m */; };
 		3AED05F41AD5A0470053CC65 /* MASConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AED05DE1AD5A0470053CC65 /* MASConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3AED05F51AD5A0470053CC65 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AED05DF1AD5A0470053CC65 /* MASConstraint.m */; };
-		3AED05F61AD5A0470053CC65 /* MASConstraint+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AED05E01AD5A0470053CC65 /* MASConstraint+Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3AED05F61AD5A0470053CC65 /* MASConstraint+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AED05E01AD5A0470053CC65 /* MASConstraint+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3AED05F71AD5A0470053CC65 /* MASConstraintMaker.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AED05E11AD5A0470053CC65 /* MASConstraintMaker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3AED05F81AD5A0470053CC65 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AED05E21AD5A0470053CC65 /* MASConstraintMaker.m */; };
 		3AED05F91AD5A0470053CC65 /* MASLayoutConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AED05E31AD5A0470053CC65 /* MASLayoutConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
